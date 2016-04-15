@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# Zdes bil vasyan
+
 import requests
 from telegram.ext import Updater
 from telegram import ChatAction
